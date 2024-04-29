@@ -1,0 +1,2 @@
+to activate the virtualenv run
+source /c/Users/Priba\ Honey/Desktop/House-price-prediction/venv/Scripts/activate
